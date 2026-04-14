@@ -1,0 +1,19 @@
+<requests>
+  <request>
+    <request_id>2001</request_id>
+    <request_type>Incident</request_type>
+    <status>Open</status>
+    <created_date>2024-01-10</created_date>
+    <last_updated>2024-01-11</last_updated>
+    <source_system>API</source_system>
+  </request>
+
+  <request>
+    <request_id>2002</request_id>
+    <request_type>Access</request_type>
+    <status>Closed</status>
+    <created_date>2024-01-08</created_date>
+    <last_updated>2024-01-09</last_updated>
+    <source_system>API</source_system>
+  </request>
+</requests>
