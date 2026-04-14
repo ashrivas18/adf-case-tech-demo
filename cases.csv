@@ -1,4 +1,4 @@
-request_id,request_type,status,created_date,last_updated,source_system
+case_id,case_type,status,created_date,last_updated,source_system
 1001,Incident,Open,2024-01-01,2024-01-02,Portal
 1002,Access,Closed,2024-01-02,2024-01-03,Portal
 1003,Change,Open,2024-01-03,2024-01-04,ServiceDesk
