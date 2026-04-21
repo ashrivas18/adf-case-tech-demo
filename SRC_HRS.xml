@@ -1,0 +1,14 @@
+<employees>
+  <employee>
+    <employee_id>2001</employee_id>
+    <name>John Doe</name>
+    <department>HR</department>
+    <location>Canada</location>
+  </employee>
+  <employee>
+    <employee_id>2002</employee_id>
+    <name>Jane Smith</name>
+    <department>Finance</department>
+    <location>USA</location>
+  </employee>
+</employees>
