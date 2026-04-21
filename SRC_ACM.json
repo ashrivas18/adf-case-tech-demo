@@ -1,0 +1,11 @@
+[
+  {
+    "case_id": 1005,
+    "employee_id": 2001,
+    "case_type": "Equipment Issue",
+    "status": "Open",
+    "created_date": "2025-01-10",
+    "last_modified": "2025-01-11",
+    "priority": "High"
+  }
+]
