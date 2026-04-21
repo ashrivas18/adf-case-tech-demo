@@ -1,4 +1,5 @@
-case_id,case_type,status,created_date,last_updated,source_system
-1001,Incident,Open,2024-01-01,2024-01-02,Portal
-1002,Access,Closed,2024-01-02,2024-01-03,Portal
-1003,Change,Open,2024-01-03,2024-01-04,ServiceDesk
+case_id,employee_id,case_type,status,created_date,last_modified,priority
+1001,2001,Leave Request,Open,2025-01-01,2025-01-02,High
+1002,2002,Payroll Issue,Closed,2025-01-03,2025-01-04,Medium
+1003,2003,Benefits Inquiry,,2025-01-05,2025-01-06,Low
+1004,2001,WFH Request,Open,2025-01-07,2025-01-08,High
